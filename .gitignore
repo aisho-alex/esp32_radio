@@ -1,0 +1,6 @@
+# PlatformIO build artifacts
+.pio/
+
+# IDE
+.vscode/
+.idea/
